@@ -1,0 +1,21 @@
+body {
+ background: linear-gradient(to right, #4a569d, 
+#dc2424);
+ 
+}
+ul{color: purple;}
+ul #clock {color: aqua;}
+
+div{
+  float:right;
+}
+div #make {float : bottom;}
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: Green;
+  color: white;
+  text-align: center;
+}
